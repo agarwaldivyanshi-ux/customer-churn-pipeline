@@ -20,6 +20,9 @@ Faced minor setup issues but resolved them independently — feeling more confid
 - Created first Jupyter notebook and ran basic cleaning.
 - Understood `.info()`, `.describe()`, `.isnull()`, and `.drop_duplicates()`.
 
-🎯 Next Steps: learn data filtering and feature selection.
+- Spent time brushing basic python essentials. Confident!
+- Updated README.md with project overview and progress so far. Excited!
+
+🎯 Next Steps: learn data filtering and feature selection. EDA and visual exploration.
 
 
