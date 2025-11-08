@@ -14,7 +14,12 @@ Faced minor setup issues but resolved them independently — feeling more confid
 - Add professional README.md.
 - Start setting up the Python environment and explore sample datasets.
 
-### 📅 Day 2 - Foundations (Nov 8, 2025)
+### 📅 Day 2 - Foundations & Revision (Nov 8, 2025)
 - Starting; checking repo sync
+- Verified GitHub sync successfully.
+- Created first Jupyter notebook and ran basic cleaning.
+- Understood `.info()`, `.describe()`, `.isnull()`, and `.drop_duplicates()`.
+
+🎯 Next Steps: learn data filtering and feature selection.
 
 
