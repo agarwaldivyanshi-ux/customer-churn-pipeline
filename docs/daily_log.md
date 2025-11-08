@@ -13,3 +13,8 @@ Faced minor setup issues but resolved them independently — feeling more confid
 🎯 Next Steps:
 - Add professional README.md.
 - Start setting up the Python environment and explore sample datasets.
+
+### 📅 Day 2 - Foundations (Nov 8, 2025)
+- Starting; checking repo sync
+
+
