@@ -26,3 +26,12 @@ Faced minor setup issues but resolved them independently — feeling more confid
 🎯 Next Steps: learn data filtering and feature selection. EDA and visual exploration.
 
 
+### 📅 Day 23- Add churn dataset and perform EDA (Nov 8, 2025)
+- Starting; checking repo sync
+- Verified GitHub sync successfully.
+- Added telco customer churn dataset and performed thorough EDA on all variables wrt Churn target
+- Used matplotlib.pyplot (basic plotting commands) and seaborn (countplot, histplot, boxplot, heatmap) for visualisation
+
+🎯 Next Steps:  Feature Engineering for churn
+
+
